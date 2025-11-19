@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @darkprince558
-- I love bringing cool ideas to life! 
 - I am excellent at coding in Java, Python, HTML/CSS and somewhat good in java script
 - I'm currently learning Rust and c++
 
