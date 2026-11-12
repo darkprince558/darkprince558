@@ -33,9 +33,6 @@ I started Dispatch to give warehouse teams one place to see fleet activity, faci
 
 ## GitHub activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.xqsit94.in/darkprince558?theme=dark">
-  <img src="https://ghchart.xqsit94.in/darkprince558?theme=light" alt="Calendar heatmap of GitHub contributions over the past year">
-</picture>
+![Calendar heatmap of GitHub contributions over the past year](https://ghchart.rshah.org/2c9a80/darkprince558)
 
 Daily contributions over the past year · [Browse public commits](https://github.com/search?q=author%3Adarkprince558&type=commits&s=author-date&o=desc)
