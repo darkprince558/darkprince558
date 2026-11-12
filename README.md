@@ -24,3 +24,18 @@ I started Dispatch to give warehouse teams one place to see fleet activity, faci
 | [Split](https://github.com/darkprince558/split) | A badminton footwork trainer with randomized cues, feints, and reaction clips. |
 | [Virtual Bingo](https://github.com/darkprince558/virtual-bingo) | A multiplayer bingo workspace with a Next.js app, Go API, and Python caller-content service. |
 | [FluidSimEngine](https://github.com/darkprince558/FluidSimEngine) | An early fluid simulation engine exploring GPU compute with C++ and Metal. |
+
+## Languages & tools
+
+![Go](https://img.shields.io/badge/Go-172636?logo=go&logoColor=A0E1D4) ![Python](https://img.shields.io/badge/Python-172636?logo=python&logoColor=A0E1D4) ![TypeScript](https://img.shields.io/badge/TypeScript-172636?logo=typescript&logoColor=A0E1D4) ![C++](https://img.shields.io/badge/C%2B%2B-172636?logo=cplusplus&logoColor=A0E1D4) ![Java](https://img.shields.io/badge/Java-172636?logo=openjdk&logoColor=A0E1D4)
+
+![Next.js](https://img.shields.io/badge/Next.js-172636?logo=nextdotjs&logoColor=A0E1D4) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-172636?logo=postgresql&logoColor=A0E1D4) ![Docker](https://img.shields.io/badge/Docker-172636?logo=docker&logoColor=A0E1D4) ![MQTT](https://img.shields.io/badge/MQTT-172636?logo=mqtt&logoColor=A0E1D4)
+
+## GitHub activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.xqsit94.in/darkprince558?theme=dark">
+  <img src="https://ghchart.xqsit94.in/darkprince558?theme=light" alt="Calendar heatmap of GitHub contributions over the past year">
+</picture>
+
+Daily contributions over the past year · [Browse public commits](https://github.com/search?q=author%3Adarkprince558&type=commits&s=author-date&o=desc)
